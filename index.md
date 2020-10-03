@@ -1,1 +1,1 @@
-# OSINT rules
+# OSINT ITMO
